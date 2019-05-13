@@ -11,4 +11,4 @@ A piano game made with <i>Processing 3.5.7</i>.
 	z x c v b n m ,
 
 ## Animation:
-![](pong.gif)
+![](animation.gif)
